@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS `students`;
+
+CREATE TABLE students(
+student_id INT UNSIGNED NOT NULL PRIMARY KEY,
+name VARCHAR(30)DEFAULT NULL,
+stdId VARCHAR (15) DEFAULT NULL
+);
+
+INSERT INTO students VALUES (1, 'Rebecca Moses Dmello', '300322984');
+INSERT INTO students VALUES (2, 'abc',    '300123123');
+INSERT INTO students VALUES (3, 'Adam',  '300945644');
+INSERT INTO students VALUES (4, 'Mike',   '300337377');
+INSERT INTO students VALUES (5, 'Rock',    '300656487');

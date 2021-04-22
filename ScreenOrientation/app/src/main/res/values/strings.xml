@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScreenOrientation</string>
+    <string name="edName"></string>
+    <string name="btnLogin">Login</string>
+    <string name="txtMedium">Medium</string>
+    <string name="chkBox">New CheckBox</string>
+    <string name="switchBtn">New Switch</string>
+    <string name="radioBtn">New Radiobutton</string>
+</resources>

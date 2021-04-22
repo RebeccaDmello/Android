@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidAnimation</string>
+    <string name="btnAnim">Click Me</string>
+</resources>

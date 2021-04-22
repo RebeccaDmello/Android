@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="title_activity_main2">Students</string>
+
+    <string name="hint_student_name">Student name</string>
+    <string name="empty_not_saved_sname">Student not saved because name is empty.</string>
+
+    <string name="hint_student_dept">Student Department</string>
+    <string name="empty_not_saved_sdept">Student not saved because department is empty.</string>
+
+    <string name="hint_student_sId">Student ID</string>
+    <string name="empty_not_saved_sId">Student not saved because Student ID is empty.</string>
+
+    <string name="btnSave">Save</string>
+    <string name="btnEdit">EDIT</string>
+    <string name="btnDel">DELETE</string>
+</resources>

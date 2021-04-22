@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseDemo</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Suzi</item>
+        <item>Pop</item>
+        <item>Pork</item>
+    </array>
+</resources>

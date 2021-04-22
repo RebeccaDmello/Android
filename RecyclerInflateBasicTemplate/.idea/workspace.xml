@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="778fffc0-8413-4dde-88de-a00a213b1b06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Recreation" />
+  </component>
+  <component name="ProjectId" id="1r7R8mLlQ9DgvZGuKz5fcdDnzG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RecyBasic" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="778fffc0-8413-4dde-88de-a00a213b1b06" name="Default Changelist" comment="" />
+      <created>1618324984199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618324984199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618325029688">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618325029688" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618441853896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618441853896" />
+  </component>
+</project>

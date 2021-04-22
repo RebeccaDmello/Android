@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SendDataFromActivityToFragmentUsingBundle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterCourse">Enter Course</string>
+    <string name="edName">Enter Name</string>
+    <string name="edCourse">Enter Course</string>
+    <string name="btnFrag">Get Data From Fragment</string>
+</resources>

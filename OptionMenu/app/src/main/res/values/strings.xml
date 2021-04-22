@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Delete">Delete</string>
+    <string name="Search">Search</string>
+    <string name="ActivityOne">Activity One</string>
+    <string name="txtActOne">I am activity One</string>
+    <string name="txtActTwo">Activity Two</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewDemp</string>
+    <string name="txtWelMsg">Welcome Message</string>
+    <string name="btnText">Show Text</string>
+    <string name="btnBoth">Show Both</string>
+</resources>

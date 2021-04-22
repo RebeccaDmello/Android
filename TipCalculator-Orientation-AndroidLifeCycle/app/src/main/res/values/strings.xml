@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipCalOrientationLifeCycle</string>
+    <string name="billAmountLabel">Bill Amount</string>
+
+    <string name="percentLabel">Percent</string>
+    <string name="percentTextView">15%</string>
+
+    <string name="tipLabel">Tip</string>
+    <string name="tipTextView">$0.00</string>
+
+    <string name="totalLabel">Total</string>
+    <string name="TotalTextView">$0.00</string>
+
+    <string name="btnSub">-</string>
+    <string name="btnAdd">+</string>
+</resources>

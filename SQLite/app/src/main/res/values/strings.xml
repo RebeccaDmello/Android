@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RebeccaMosesDmello</string>
+    <string name="stdTitle">Student Records</string>
+    <string name="stdInfo">Student System</string>
+    <string name="btnView">VIEW</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelet">DELETE</string>
+    <string name="addTitle">Add Record</string>
+    <string name="updateTitle">Update Record</string>
+    <string name="deleteTitle">Delete Record</string>
+    <string name="name">Name</string>
+    <string name="stdId">Student Id</string>
+    <string name="enterNew">Enter name of student to update record</string>
+    <string name="updatedInfo">Enter students updated information</string>
+</resources>

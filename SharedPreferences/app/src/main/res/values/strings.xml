@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferenceApplicationLevel</string>
+    <string name="edName">Enter Name</string>
+    <string name="edCourse">Enter Course</string>
+    <string name="btnSave">Save</string>
+    <string name="btnLoad">Load</string>
+</resources>
