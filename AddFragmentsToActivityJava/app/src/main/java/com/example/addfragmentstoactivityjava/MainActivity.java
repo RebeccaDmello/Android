@@ -1,12 +1,10 @@
-package com.example.rebecca.addfragmenttoanactivityusingjava;
+package com.example.addfragmentstoactivityjava;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.reza.addfragmenttoanactivityusingjava.HelloFragment;
-import com.example.reza.addfragmenttoanactivityusingjava.R;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
